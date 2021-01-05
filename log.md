@@ -5,3 +5,7 @@ Modules: socket, nmap
 
 Following along freeCodeCamp's Python for Pen Testing module.
 tcp-client.py and tcp-server.py creates a TCP server and client, establishes a brief connection, and send & receive a message using socket module.
+
+
+**Day 4**
+Building out the nmap scanner and completing freeCodeCamp's Developing an Nmap Scanner.
