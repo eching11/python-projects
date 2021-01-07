@@ -9,3 +9,8 @@ tcp-client.py and tcp-server.py creates a TCP server and client, establishes a b
 
 **Day 4**
 Building out the nmap scanner and completing freeCodeCamp's Developing an Nmap Scanner.
+
+**Day 5**
+Day off
+
+**Day 6**
