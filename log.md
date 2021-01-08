@@ -10,7 +10,11 @@ tcp-client.py and tcp-server.py creates a TCP server and client, establishes a b
 **Day 4**
 Building out the nmap scanner and completing freeCodeCamp's Developing an Nmap Scanner.
 
-**Day 5**
+**Day 5 & 6**
 Day off
 
-**Day 6**
+**Day 7**
+Created a banner grabber script based on freeCodeCamp's Developing a Banner Grabber.
+
+Looking into data analysis with Python (freeCodeCamp) with the goal of capturing trends or patterns to better inform decision making.
+Libraries: pandas, numPy 
