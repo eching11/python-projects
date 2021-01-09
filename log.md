@@ -22,4 +22,5 @@ Libraries: pandas, numPy
 **Day 8**
 Pandas module = one of the most popular python libraries for data analysis, which sits on top of numPy.
 Series are ordered dictionaries.
-read_csv function from pandas --> import data into pandas workflow
+read_csv, powerful function from pandas --> import data into pandas workflow
+use loc to get particular value from row.
