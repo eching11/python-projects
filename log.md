@@ -24,3 +24,21 @@ Pandas module = one of the most popular python libraries for data analysis, whic
 Series are ordered dictionaries.
 read_csv, powerful function from pandas --> import data into pandas workflow
 use loc to get particular value from row.
+
+**Day 9**
+Starting data cleaning with python on freeCodeCamp.
+Handling missing data with Pandas: identify null values or invalid values
+...felt that these video tutorials are not that hands on so moving onto another endeavor.
+
+Looking into Al Sweigart's Udemy course for Automating the Boring Stuff to review python basics.
+Review:
+- IDLE is an editor included in python installation
+- every variable has exactly one data type (unlike C++ you don't need to declare what the data type is in python)
+- Boolean values: True, False
+- Boolean operators: and, or, not
+- if you don't designate a return value in a function, the default return value is None.
+
+Created a very simple hello.py script that says hi and asks user for their name.
+
+Modules:
+pyperclip # contains copy() and paste() to copy/paste to clipboard, useful for copying/pasting large amounts of text from program
