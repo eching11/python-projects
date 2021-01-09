@@ -17,4 +17,9 @@ Day off
 Created a banner grabber script based on freeCodeCamp's Developing a Banner Grabber.
 
 Looking into data analysis with Python (freeCodeCamp) with the goal of capturing trends or patterns to better inform decision making.
-Libraries: pandas, numPy 
+Libraries: pandas, numPy
+
+**Day 8**
+Pandas module = one of the most popular python libraries for data analysis, which sits on top of numPy.
+Series are ordered dictionaries.
+read_csv function from pandas --> import data into pandas workflow
