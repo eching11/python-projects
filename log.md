@@ -40,12 +40,13 @@ Review:
 
 Created a very simple hello.py script that says hi and asks user for their name.
 
-:package: Modules
+:package: Modules:
 pyperclip # contains copy() and paste() to copy/paste to clipboard, useful for copying/pasting large amounts of text from program
 
-:snake: next: write guess the number game using random module.
+:snake: *next session: write guess the number game using random module.*
 
-**:waning_crescent_moon: Day x**
+**:waning_crescent_moon: Day 10**
+Created the classic guessing number game to practice fundamental coding concepts like loops, if statements, etc.
 
 
 **:new_moon: Day x**
