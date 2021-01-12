@@ -48,6 +48,10 @@ pyperclip # contains copy() and paste() to copy/paste to clipboard, useful for c
 **:waning_crescent_moon: Day 10**
 Created the classic guessing number game to practice fundamental coding concepts like loops, if statements, etc.
 
+**:new_moon: Day 11**
+Refresher on lists and methods.
+
+:snake: *next session: write comma code and coin flip streaks practice projects.*
 
 **:new_moon: Day x**
 **:waxing_crescent_moon: Day x**
