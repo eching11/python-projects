@@ -53,6 +53,23 @@ Refresher on lists and methods.
 
 :snake: *next session: write comma code and coin flip streaks practice projects.*
 
+**:waxing_crescent_moon: Day 12**
+List operators: *in* and *not in* checks the list to see if the value is inside or not and returns boolean value.
+
+Tuple unpacking: shortcut to assign multiple variables with the values in a list within one line of code. However, number of variables and list length must be equal.
+Ex. *Instead of...*
+'''hades = ['god', 'death']
+entity = hades[0]
+domain = hades[1]'''
+*You can type:*
+''' hades = ['god', 'death']
+entity, domain = hades'''
+
+**Functions with Lists:**
+enumerate() returns 2 values: item's index and value
+random.choice() returns randomly selected item from list
+random.shuffle() reorders the items in a list (modifies existing list)
+
 **:new_moon: Day x**
 **:waxing_crescent_moon: Day x**
 **:first_quarter_moon: Day x**
